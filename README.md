@@ -1,4 +1,4 @@
-# Modeling bank default with Machine Laerning and interpreting the results with SHAP values
+# Modeling bank default with Machine Learning and interpreting the results with SHAP values
 
 **Bank_Default_Modeling** attempts to model banking failures. The data was extracted from the Federal Deposit Insurance Corporation in the U.S. (FDIC) which is in charge of analyzing the stability of the banks and declaring whether a bank defaults or not. Some of the most common reasons to close a bank include: capital inadequacy, violations of financial rules, and management failures.
 
