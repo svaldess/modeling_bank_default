@@ -6,5 +6,5 @@ Financial institutions are more difficult to model than corporations because the
 
 **Bank_Default_Shap_values** attempts to interpret the results from Logistic Regression. Machine Learning models are usually treated as blackboxes. To address this issue, SHAP values bring global and local interpretability to the models. 
 
-[Shap_summary_plot.png]
+(Shap_summary_plot.png)
 
